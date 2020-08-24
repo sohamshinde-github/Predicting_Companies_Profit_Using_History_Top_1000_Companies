@@ -1,4 +1,4 @@
-### Predicting Companies Profit Using History Top 500 Companies
+### Predicting Companies Profit Using History Top 1000 Companies
 
 1. Predicts the companies profit by taking independent variables like amount spent by R&D, marketing, administration in their company
 2. Data describes 5 columns R&D amount, marketing spending, administration spending, state where company is located and profit
